@@ -1,0 +1,133 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;    
+}
+
+body {    
+  background-image: url("assets/images/lado-luminoso-2.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;     
+}
+
+.title {
+  color: #ffe81f;
+  font-size: 150px;
+  font-weight: 900;    
+  padding: 0px;
+  text-align: center;
+}
+
+.subtitle {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: 20px;
+  text-align: center;      
+}
+
+.quest-box {
+  width: 80vw;
+  min-height: 200px;    
+  background: rgba(255, 255, 255, 0.2);
+  padding: 32px;
+  margin-top: 60px;
+  border-radius: 10px;    
+} 
+
+#encabezado, #pregunta{    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;    
+  text-align: center;
+}
+
+#encabezado {
+  color: black;
+  font-size: 25px;
+}
+
+#pregunta {
+  margin-bottom: 15px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.opcion {
+  text-align: center;
+  width: 70vw;
+  background: white;    
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+  
+.opcion:hover{
+  background: #ffe81f;
+}
+
+.dark-mode {
+  background-image: url("/assets/images/lado-oscuro-2.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.data-box {
+  width: 80vw;
+  min-height: 200px;    
+  background: rgba(255, 255, 255, 0.2);
+  padding: 32px;
+  margin-top: 60px;
+  border-radius: 10px;    
+}
+
+.footer {
+  width: 80vw;
+  min-height: 200px;    
+  background: rgba(255, 255, 255, 0.2);
+  padding: 32px;
+  margin-top: 60px;
+  border-radius: 10px;    
+}
+
+.pers-title h2 {
+  color: #ffe81f;
+  font-size: 50px;
+  font-weight: 600;    
+  padding: 10px;
+  text-align: center;
+}
+
+#lista {
+  list-style: none;
+}
+
+li{
+  padding: 9px;
+}
+
+.personaje {  
+  margin-bottom: 15px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+.descripcion {
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+
+
+/*** para main-title yellow: #ffe81f

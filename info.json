@@ -1,0 +1,110 @@
+[
+    {
+    "name": "Luke Skywalker", 
+    "gender": "Masculino", 
+    "homeworld": "Tatooine",
+    "image": "assets/images/cards/luke.jpg",
+    "films": [
+        "https://swapi.dev/api/films/1/", 
+        "https://swapi.dev/api/films/2/", 
+        "https://swapi.dev/api/films/3/", 
+        "https://swapi.dev/api/films/6/"
+        ]
+    },
+    {
+    "name": "Darth Vader", 
+    "gender": "Masculino", 
+    "homeworld": "Tatooine",
+    "image": "assets/images/cards/darth.jpg", 
+    "films": [
+        "https://swapi.dev/api/films/1/", 
+        "https://swapi.dev/api/films/2/", 
+        "https://swapi.dev/api/films/3/", 
+        "https://swapi.dev/api/films/6/"
+        ]   
+    },
+    {
+    "name": "Leia Organa", 
+    "gender": "Femenino", 
+    "homeworld": "Alderaan",
+    "image": "assets/images/cards/leia.jpg", 
+    "films": [
+        "https://swapi.dev/api/films/1/", 
+        "https://swapi.dev/api/films/2/", 
+        "https://swapi.dev/api/films/3/", 
+        "https://swapi.dev/api/films/6/"
+        ]
+    },
+    {
+        "name": "Biggs Darklighter", 
+        "gender": "Masculino", 
+        "homeworld": "Tatooine",
+        "image": "assets/images/cards/biggs.jpg", 
+        "films": [
+            "https://swapi.dev/api/films/1/", 
+            "https://swapi.dev/api/films/2/", 
+            "https://swapi.dev/api/films/3/", 
+            "https://swapi.dev/api/films/6/"
+            ]
+        },
+        {
+        "name": "Obi-Wan Kenobi", 
+        "gender": "Masculino", 
+        "homeworld": "Stewjon",
+        "image": "assets/images/cards/obi-wan.jpg", 
+        "films": [
+            "https://swapi.dev/api/films/1/", 
+            "https://swapi.dev/api/films/2/", 
+            "https://swapi.dev/api/films/3/", 
+            "https://swapi.dev/api/films/6/"
+            ]   
+        },
+        {
+        "name": "Chewbacca", 
+        "gender": "Masculino", 
+        "homeworld": "Kashyyyk",
+        "image": "assets/images/cards/chewbacca.jpg", 
+        "films": [
+            "https://swapi.dev/api/films/1/", 
+            "https://swapi.dev/api/films/2/", 
+            "https://swapi.dev/api/films/3/", 
+            "https://swapi.dev/api/films/6/"
+            ]
+        },
+        {
+            "name": "Yoda", 
+            "gender": "Masculino", 
+            "homeworld": "Dagobah",
+            "image": "assets/images/cards/yoda.jpg", 
+            "films": [
+                "https://swapi.dev/api/films/1/", 
+                "https://swapi.dev/api/films/2/", 
+                "https://swapi.dev/api/films/3/", 
+                "https://swapi.dev/api/films/6/"
+                ]
+            },
+            {
+            "name": "Han Solo", 
+            "gender": "Masculino", 
+            "homeworld": "Corellia",
+            "image": "assets/images/cards/han-solo.jpg", 
+            "films": [
+                "https://swapi.dev/api/films/1/", 
+                "https://swapi.dev/api/films/2/", 
+                "https://swapi.dev/api/films/3/", 
+                "https://swapi.dev/api/films/6/"
+                ]   
+            },
+            {
+            "name": "Palpatine", 
+            "gender": "Masculino", 
+            "homeworld": "Naboo",
+            "image": "assets/images/cards/palpatine.jpg", 
+            "films": [
+                "https://swapi.dev/api/films/1/", 
+                "https://swapi.dev/api/films/2/", 
+                "https://swapi.dev/api/films/3/", 
+                "https://swapi.dev/api/films/6/"
+                ]
+            }        
+]
